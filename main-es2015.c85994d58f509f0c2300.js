@@ -5195,7 +5195,7 @@
             function Xs(e) {
                 return Eo(0, [(e()(), co(0, 0, null, null, 2, "span", [
                     ["id", "a"]
-                ], null, null, null, null, null)), (e()(), co(1, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["Swati@Kp\xa0"]))], null, null)
+                ], null, null, null, null, null)), (e()(), co(1, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["Mayur@Bavisiya\xa0"]))], null, null)
             }
 
             function ei(e) {
@@ -5207,7 +5207,7 @@
             function ti(e) {
                 return Eo(0, [(e()(), co(0, 0, null, null, 2, "span", [
                     ["id", "a"]
-                ], null, null, null, null, null)), (e()(), co(1, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["Swati@Kp\xa0"]))], null, null)
+                ], null, null, null, null, null)), (e()(), co(1, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["Mayur@Bavisiya\xa0"]))], null, null)
             }
 
             function ni(e) {
@@ -5219,7 +5219,7 @@
             function li(e) {
                 return Eo(0, [(e()(), co(0, 0, null, null, 2, "span", [
                     ["id", "a"]
-                ], null, null, null, null, null)), (e()(), co(1, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["Swati@Kp\xa0"]))], null, null)
+                ], null, null, null, null, null)), (e()(), co(1, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["Mayur@Bavisiya\xa0"]))], null, null)
             }
 
             function ri(e) {
@@ -5298,7 +5298,7 @@
             function ai(e) {
                 return Eo(0, [(e()(), co(0, 0, null, null, 2, "span", [
                     ["id", "a"]
-                ], null, null, null, null, null)), (e()(), co(1, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["Swati@Kp\xa0"]))], null, null)
+                ], null, null, null, null, null)), (e()(), co(1, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["Mayur@Bavisiya\xa0"]))], null, null)
             }
 
             function ci(e) {
@@ -5398,7 +5398,7 @@
             function pi(e) {
                 return Eo(0, [(e()(), co(0, 0, null, null, 2, "span", [
                     ["id", "a"]
-                ], null, null, null, null, null)), (e()(), co(1, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["Swati@Kp\xa0"]))], null, null)
+                ], null, null, null, null, null)), (e()(), co(1, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["Mayur@Bavisiya\xa0"]))], null, null)
             }
 
             function fi(e) {
@@ -5425,7 +5425,7 @@
             function yi(e) {
                 return Eo(0, [(e()(), co(0, 0, null, null, 2, "span", [
                     ["id", "a"]
-                ], null, null, null, null, null)), (e()(), co(1, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["Swati@Kp\xa0"]))], null, null)
+                ], null, null, null, null, null)), (e()(), co(1, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["Mayur@Bavisiya\xa0"]))], null, null)
             }
 
             function _i(e) {
@@ -5459,7 +5459,7 @@
                     ["style", "color: white; border-radius: 10%"]
                 ], null, null, null, null, null)), (e()(), vo(-1, null, [" Facebook"])), (e()(), co(7, 0, null, null, 2, "a", [
                     ["class", "list-group-item  list-5"],
-                    ["href", "https://www.instagram.com/swati.k.p/"],
+                    ["href", "https://www.instagram.com/mayur.bavisiya/"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), co(8, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
@@ -5503,7 +5503,7 @@
                     ["style", "color: white; border-radius: 10%"]
                 ], null, null, null, null, null)), (e()(), vo(-1, null, [" Medium"])), (e()(), co(12, 0, null, null, 2, "a", [
                     ["class", "list-group-item  list-4"],
-                    ["href", "https://www.linkedin.com/in/swati-kp-49a022146/"],
+                    ["href", "https://www.facebook.com/mayur.bavisiya"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), co(13, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
@@ -5524,7 +5524,7 @@
             function xi(e) {
                 return Eo(0, [(e()(), co(0, 0, null, null, 2, "span", [
                     ["id", "a"]
-                ], null, null, null, null, null)), (e()(), co(1, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["Swati@Kp\xa0"]))], null, null)
+                ], null, null, null, null, null)), (e()(), co(1, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["Mayur@Bavisiya\xa0"]))], null, null)
             }
 
             function Ei(e) {
@@ -5715,7 +5715,7 @@
                     ["class", "col-xs-1 col-sm-1 col-md-2 col-lg-1"]
                 ], null, null, null, null, null)), (e()(), co(8, 0, null, null, 1, "a", [
                     ["class", " list-4"],
-                    ["href", "https://github.com/Swatikp"],
+                    ["href", "https://github.com/mayurbavisiya"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), co(9, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
@@ -5727,7 +5727,7 @@
                     ["class", " col-xs-1 col-sm-1 col-md-2 col-lg-1"]
                 ], null, null, null, null, null)), (e()(), co(12, 0, null, null, 1, "a", [
                     ["class", " list-4"],
-                    ["href", "https://medium.com/@SwatiKp"],
+                    ["href", "https://medium.com/@mayurbavisiya"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), co(13, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
@@ -5751,7 +5751,7 @@
                     ["class", "col-xs-10 col-sm-10 col-md-8 col-lg-8"]
                 ], null, null, null, null, null)), (e()(), co(20, 0, null, null, 2, "span", [
                     ["id", "a"]
-                ], null, null, null, null, null)), (e()(), co(21, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["Swati@Kp\xa0"])), (e()(), ao(16777216, null, null, 1, null, Js)), zl(24, 16384, null, 0, zs, [gn, fn], {
+                ], null, null, null, null, null)), (e()(), co(21, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["Mayur@Bavisiya\xa0"])), (e()(), ao(16777216, null, null, 1, null, Js)), zl(24, 16384, null, 0, zs, [gn, fn], {
                     ngIf: [0, "ngIf"]
                 }, null), (e()(), co(25, 0, null, null, 0, "div", [
                     ["class", "clear"]
@@ -5814,7 +5814,7 @@
                     hideCursorOnComplete: [3, "hideCursorOnComplete"]
                 }, {
                     complete: "complete"
-                }), (e()(), co(47, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, [" Hi I am Swati Kp. "])), (e()(), co(49, 0, null, null, 3, "span", [
+                }), (e()(), co(47, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, [" Hi I am Mayur Bavisiya. "])), (e()(), co(49, 0, null, null, 3, "span", [
                     ["id", "console"],
                     ["typingAnimation", ""]
                 ], null, [
