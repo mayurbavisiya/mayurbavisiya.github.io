@@ -5280,7 +5280,7 @@
                 return uo(0, [(e()(), Gr(0, 0, null, null, 3, "span", [
                     ["class", "list-group-item list-3"]
                 ], null, null, null, null, null)), (e()(), oo(-1, null, ["LocationFinder NodeJS             "])), (e()(), Gr(2, 0, null, null, 1, "a", [
-                    ["href", "https://github.com/mayurbavisiya/FireBasewithNodeJS"],
+                    ["href", "https://github.com/"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), Gr(3, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
@@ -5311,6 +5311,20 @@
                     ["aria-hidden", "true"],
                     ["class", "fa fa-fw fa-github fa-2x"],
                     ["style", "color: white; border-radius: 10%"]
+                ], null, null, null, null, null)), (e()(), oo(-1, null, ["  "])), (e()(), Gr(12, 0, null, null, 1, "a", [
+                    ["href", "https://medium.com/"],
+                    ["target", "_blank"]
+                ], null, null, null, null, null)), (e()(), Gr(13, 0, null, null, 0, "i", [
+                    ["aria-hidden", "true"],
+                    ["class", "fa fa-fw fa-medium fa-2x"],
+                    ["style", " color: whitesmoke; border-radius: 10%"]
+                ], null, null, null, null, null)), (e()(), oo(-1, null, ["  "])), (e()(), Gr(15, 0, null, null, 1, "a", [
+                    ["href", "https://drive.google.com/"],
+                    ["target", "_blank"]
+                ], null, null, null, null, null)), (e()(), Gr(16, 0, null, null, 0, "i", [
+                    ["aria-hidden", "true"],
+                    ["class", "fa fa-fw fa-video-camera fa-lg"],
+                    ["style", " color: whitesmoke; border-radius: 10%"]
                 ], null, null, null, null, null)), (e()(), Gr(17, 0, null, null, 9, "span", [
                     ["class", "list-group-item list-3"]
                 ], null, null, null, null, null)), (e()(), oo(-1, null, ["MicroServiceArchitecture           "])), (e()(), Gr(19, 0, null, null, 1, "a", [
