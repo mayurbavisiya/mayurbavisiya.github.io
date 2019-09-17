@@ -5451,7 +5451,7 @@
                     ["style", "background-color: #A3BE8C; margin: 10px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"]
                 ], null, null, null, null, null)), (e()(), vo(-1, null, [" Social "])), (e()(), co(4, 0, null, null, 2, "a", [
                     ["class", "list-group-item  list-5"],
-                    ["href", "https://www.facebook.com/profile.php?id=100010924271009"],
+                    ["href", "https://www.facebook.com/mayurbavisiya"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), co(5, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
@@ -5556,7 +5556,7 @@
                     hideCursorOnComplete: [3, "hideCursorOnComplete"]
                 }, {
                     complete: "complete"
-                }), (e()(), co(7, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 Recognized by the CEO of Mindtree, Mr. Rostow Ravanan as Star performer of the project (2019)."])), (e()(), co(9, 0, null, null, 0, "div", [
+                }), (e()(), co(7, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 • Awarded at Sterlite Tech for achieving best performance."])), (e()(), co(9, 0, null, null, 0, "div", [
                     ["class", "clear"]
                 ], null, null, null, null, null)), (e()(), co(10, 0, null, null, 3, "span", [
                     ["id", "console"],
@@ -5574,7 +5574,7 @@
                     hideCursorOnComplete: [3, "hideCursorOnComplete"]
                 }, {
                     complete: "complete"
-                }), (e()(), co(12, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 Winner of Mindtree's Pillar award (2019)."])), (e()(), co(14, 0, null, null, 0, "div", [
+                }), (e()(), co(12, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 • 1st Place & Most Innovative Project, UDID for Central Government | JULY 2011."])), (e()(), co(14, 0, null, null, 0, "div", [
                     ["class", "clear"]
                 ], null, null, null, null, null)), (e()(), co(15, 0, null, null, 3, "span", [
                     ["id", "console"],
@@ -5592,7 +5592,7 @@
                     hideCursorOnComplete: [3, "hideCursorOnComplete"]
                 }, {
                     complete: "complete"
-                }), (e()(), co(17, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 4th Prize winner in Blockchain Hackthon organized by Karnataka Government (2018)."])), (e()(), co(19, 0, null, null, 0, "div", [
+                }), (e()(), co(17, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 • Secured 1st rank on final year project."])), (e()(), co(19, 0, null, null, 0, "div", [
                     ["class", "clear"]
                 ], null, null, null, null, null)), (e()(), co(20, 0, null, null, 3, "span", [
                     ["id", "console"],
@@ -5610,7 +5610,7 @@
                     hideCursorOnComplete: [3, "hideCursorOnComplete"]
                 }, {
                     complete: "complete"
-                }), (e()(), co(22, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 Winner of Mindtree's Outstanding performer Award (2019, 2018)."])), (e()(), co(24, 0, null, null, 0, "div", [
+                }), (e()(), co(22, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 • Java certified"])), (e()(), co(24, 0, null, null, 0, "div", [
                     ["class", "clear"]
                 ], null, null, null, null, null)), (e()(), co(25, 0, null, null, 3, "span", [
                     ["id", "console"],
@@ -5628,7 +5628,7 @@
                     hideCursorOnComplete: [3, "hideCursorOnComplete"]
                 }, {
                     complete: "complete"
-                }), (e()(), co(27, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 Runner up in 2 of Mindtree's internal Hackathons."])), (e()(), co(29, 0, null, null, 0, "div", [
+                }), (e()(), co(27, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 Coming soon.."])), (e()(), co(29, 0, null, null, 0, "div", [
                     ["class", "clear"]
                 ], null, null, null, null, null)), (e()(), co(30, 0, null, null, 0, "br", [], null, null, null, null, null)), (e()(), co(31, 0, null, null, 0, "div", [
                     ["class", "clear"]
