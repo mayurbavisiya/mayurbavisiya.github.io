@@ -5310,8 +5310,8 @@
             function di(e) {
                 return Eo(0, [(e()(), co(0, 0, null, null, 3, "span", [
                     ["class", "list-group-item list-3"]
-                ], null, null, null, null, null)), (e()(), vo(-1, null, ["balance-transfer-java\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0"])), (e()(), co(2, 0, null, null, 1, "a", [
-                    ["href", "https://github.com/MindtreeLtd/balance-transfer-java"],
+                ], null, null, null, null, null)), (e()(), vo(-1, null, ["coming soon\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0"])), (e()(), co(2, 0, null, null, 1, "a", [
+                    ["href", "https://github.com/"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), co(3, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
@@ -5335,54 +5335,26 @@
                     ["style", "background-color: #d08770; margin: 20px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"]
                 ], null, null, null, null, null)), (e()(), vo(-1, null, [" A few of my Open Source projects "])), (e()(), co(7, 0, null, null, 9, "span", [
                     ["class", "list-group-item  list-3"]
-                ], null, null, null, null, null)), (e()(), vo(-1, null, ["Save Notes \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0"])), (e()(), co(9, 0, null, null, 1, "a", [
-                    ["href", "https://github.com/Swatikp/save-notes-chrome-extension"],
+                ], null, null, null, null, null)), (e()(), vo(-1, null, ["Coming soon.. \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0"])), (e()(), co(9, 0, null, null, 1, "a", [
+                    ["href", "https://github.com/"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), co(10, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
                     ["class", "fa fa-fw fa-github fa-2x"],
                     ["style", "color: white; border-radius: 10%"]
-                ], null, null, null, null, null)), (e()(), vo(-1, null, ["\xa0\xa0"])), (e()(), co(12, 0, null, null, 1, "a", [
-                    ["href", "https://medium.com/@SwatiKp/my-first-chrome-extension-journey-towards-my-smart-goal-a30ed1885d73"],
-                    ["target", "_blank"]
-                ], null, null, null, null, null)), (e()(), co(13, 0, null, null, 0, "i", [
-                    ["aria-hidden", "true"],
-                    ["class", "fa fa-fw fa-medium fa-2x"],
-                    ["style", " color: whitesmoke; border-radius: 10%"]
-                ], null, null, null, null, null)), (e()(), vo(-1, null, ["\xa0\xa0"])), (e()(), co(15, 0, null, null, 1, "a", [
-                    ["href", "https://drive.google.com/file/d/1-BJIwFLqS5S6ViJnOdwoAqBgRtwfB3Yv/view"],
-                    ["target", "_blank"]
-                ], null, null, null, null, null)), (e()(), co(16, 0, null, null, 0, "i", [
-                    ["aria-hidden", "true"],
-                    ["class", "fa fa-fw fa-video-camera fa-lg"],
-                    ["style", " color: whitesmoke; border-radius: 10%"]
                 ], null, null, null, null, null)), (e()(), co(17, 0, null, null, 9, "span", [
                     ["class", "list-group-item list-3"]
-                ], null, null, null, null, null)), (e()(), vo(-1, null, ["Oh My Link\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0"])), (e()(), co(19, 0, null, null, 1, "a", [
-                    ["href", "https://github.com/Swatikp/oh-my-link"],
+                ], null, null, null, null, null)), (e()(), vo(-1, null, ["Coming soon..\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0"])), (e()(), co(19, 0, null, null, 1, "a", [
+                    ["href", "https://github.com/"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), co(20, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
                     ["class", "fa fa-fw fa-github fa-2x"],
                     ["style", "color: white; border-radius: 10%"]
-                ], null, null, null, null, null)), (e()(), vo(-1, null, ["\xa0\xa0"])), (e()(), co(22, 0, null, null, 1, "a", [
-                    ["href", "https://chrome.google.com/webstore/detail/oh-my-link/fjhnndnenmfmfcaocdbpdejodhokmllb"],
-                    ["target", "_blank"]
-                ], null, null, null, null, null)), (e()(), co(23, 0, null, null, 0, "i", [
-                    ["aria-hidden", "true"],
-                    ["class", "fa fa-fw fa-chrome fa-2x"],
-                    ["style", " color: whitesmoke; border-radius: 10%"]
-                ], null, null, null, null, null)), (e()(), vo(-1, null, ["\xa0\xa0"])), (e()(), co(25, 0, null, null, 1, "a", [
-                    ["href", "https://drive.google.com/file/d/1-AwLHhs7yBENS6J1reQvMAU-NPkO_B66/view"],
-                    ["target", "_blank"]
-                ], null, null, null, null, null)), (e()(), co(26, 0, null, null, 0, "i", [
-                    ["aria-hidden", "true"],
-                    ["class", "fa fa-fw fa-video-camera fa-lg"],
-                    ["style", " color: whitesmoke; border-radius: 10%"]
                 ], null, null, null, null, null)), (e()(), co(27, 0, null, null, 3, "span", [
                     ["class", "list-group-item list-3"]
-                ], null, null, null, null, null)), (e()(), vo(-1, null, ["Auto Hyperledger Network Setup\xa0\xa0\xa0"])), (e()(), co(29, 0, null, null, 1, "a", [
-                    ["href", "https://github.com/MindtreeLtd/dynamic-hyperledger-network-creation"],
+                ], null, null, null, null, null)), (e()(), vo(-1, null, ["Coming soon \xa0\xa0\xa0"])), (e()(), co(29, 0, null, null, 1, "a", [
+                    ["href", "https://github.com/"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), co(30, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
@@ -5487,7 +5459,7 @@
                     ["style", "background-color: #A3BE8C; margin: 10px; border-radius:0px;font-family: courier, monospace; font-weight: bolder;color:black;"]
                 ], null, null, null, null, null)), (e()(), vo(-1, null, [" Professional "])), (e()(), co(6, 0, null, null, 2, "a", [
                     ["class", "list-group-item  list-4"],
-                    ["href", "https://github.com/Swatikp"],
+                    ["href", "https://github.com/mayurbavisiya"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), co(7, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
@@ -5495,7 +5467,7 @@
                     ["style", "color: white; border-radius: 10%"]
                 ], null, null, null, null, null)), (e()(), vo(-1, null, [" Github"])), (e()(), co(9, 0, null, null, 2, "a", [
                     ["class", "list-group-item  list-4"],
-                    ["href", "https://medium.com/@SwatiKp"],
+                    ["href", "https://medium.com/@mayurbavisiya"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), co(10, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
@@ -5556,7 +5528,7 @@
                     hideCursorOnComplete: [3, "hideCursorOnComplete"]
                 }, {
                     complete: "complete"
-                }), (e()(), co(7, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 Recognized by the CEO of Mindtree, Mr. Rostow Ravanan as Star performer of the project (2019)."])), (e()(), co(9, 0, null, null, 0, "div", [
+                }), (e()(), co(7, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 • Awarded at Sterlite Tech for achieving best performance(OCT 2016)."])), (e()(), co(9, 0, null, null, 0, "div", [
                     ["class", "clear"]
                 ], null, null, null, null, null)), (e()(), co(10, 0, null, null, 3, "span", [
                     ["id", "console"],
@@ -5574,7 +5546,7 @@
                     hideCursorOnComplete: [3, "hideCursorOnComplete"]
                 }, {
                     complete: "complete"
-                }), (e()(), co(12, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 Winner of Mindtree's Pillar award (2019)."])), (e()(), co(14, 0, null, null, 0, "div", [
+                }), (e()(), co(12, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 • 1st Place & Most Innovative Project, UDID for Central Government, AITS | JULY 2011"])), (e()(), co(14, 0, null, null, 0, "div", [
                     ["class", "clear"]
                 ], null, null, null, null, null)), (e()(), co(15, 0, null, null, 3, "span", [
                     ["id", "console"],
@@ -5592,7 +5564,7 @@
                     hideCursorOnComplete: [3, "hideCursorOnComplete"]
                 }, {
                     complete: "complete"
-                }), (e()(), co(17, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 4th Prize winner in Blockchain Hackthon organized by Karnataka Government (2018)."])), (e()(), co(19, 0, null, null, 0, "div", [
+                }), (e()(), co(17, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 • Secured 1st rank on final year project."])), (e()(), co(19, 0, null, null, 0, "div", [
                     ["class", "clear"]
                 ], null, null, null, null, null)), (e()(), co(20, 0, null, null, 3, "span", [
                     ["id", "console"],
@@ -5610,7 +5582,7 @@
                     hideCursorOnComplete: [3, "hideCursorOnComplete"]
                 }, {
                     complete: "complete"
-                }), (e()(), co(22, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 Winner of Mindtree's Outstanding performer Award (2019, 2018)."])), (e()(), co(24, 0, null, null, 0, "div", [
+                }), (e()(), co(22, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\u2022 • Java certified"])), (e()(), co(24, 0, null, null, 0, "div", [
                     ["class", "clear"]
                 ], null, null, null, null, null)), (e()(), co(25, 0, null, null, 3, "span", [
                     ["id", "console"],
@@ -5739,7 +5711,7 @@
                     ["class", " col-xs-2 col-sm-2 col-md-2 col-lg-1 "]
                 ], null, null, null, null, null)), (e()(), co(16, 0, null, null, 1, "a", [
                     ["class", " list-4"],
-                    ["href", "https://www.linkedin.com/in/swati-kp-49a022146/"],
+                    ["href", "https://www.linkedin.com/in/mayurbavisiya/"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), co(17, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
@@ -5829,7 +5801,7 @@
                     hideCursorOnComplete: [3, "hideCursorOnComplete"]
                 }, {
                     complete: "complete"
-                }), (e()(), co(51, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\xa0 I am an Energetic Full Stack Engineer having 2.7+ years of experience in building robust code for next generation applications with a can-do attitude. "])), (e()(), co(53, 0, null, null, 0, "div", [
+                }), (e()(), co(51, 0, null, null, 1, "span", [], null, null, null, null, null)), (e()(), vo(-1, null, ["\xa0 I am an Energetic Full Stack Engineer having 5+ years of experience in building robust code for next generation applications with a can-do attitude. "])), (e()(), co(53, 0, null, null, 0, "div", [
                     ["class", "clear"]
                 ], null, null, null, null, null)), (e()(), co(54, 0, null, null, 3, "span", [
                     ["id", "console"],
