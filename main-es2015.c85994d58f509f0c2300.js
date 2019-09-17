@@ -5280,7 +5280,7 @@
                 return uo(0, [(e()(), Gr(0, 0, null, null, 3, "span", [
                     ["class", "list-group-item list-3"]
                 ], null, null, null, null, null)), (e()(), oo(-1, null, ["LocationFinder NodeJS             "])), (e()(), Gr(2, 0, null, null, 1, "a", [
-                    ["href", "https://github.com/"],
+                    ["href", "https://github.com/mayurbavisiya/FireBasewithNodeJS"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), Gr(3, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
@@ -5312,7 +5312,7 @@
                     ["class", "fa fa-fw fa-github fa-2x"],
                     ["style", "color: white; border-radius: 10%"]
                 ], null, null, null, null, null)), (e()(), oo(-1, null, ["  "])), (e()(), Gr(12, 0, null, null, 1, "a", [
-                    ["href", "https://medium.com/"],
+                    ["href", "https://medium.com/@mayur.bavisiya"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), Gr(13, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
@@ -5464,7 +5464,7 @@
                     ["style", "color: white; border-radius: 10%"]
                 ], null, null, null, null, null)), (e()(), oo(-1, null, [" Github"])), (e()(), Gr(9, 0, null, null, 2, "a", [
                     ["class", "list-group-item  list-4"],
-                    ["href", "https://medium.com/@mayurbavisiya"],
+                    ["href", "https://medium.com/@mayur.bavisiya"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), Gr(10, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
@@ -5472,7 +5472,7 @@
                     ["style", "color: white; border-radius: 10%"]
                 ], null, null, null, null, null)), (e()(), oo(-1, null, [" Medium"])), (e()(), Gr(12, 0, null, null, 2, "a", [
                     ["class", "list-group-item  list-4"],
-                    ["href", "https://www.facebook.com/mayur.bavisiya"],
+                    ["href", "https://www.linkedin.com/in/mayurbavisiya/"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), Gr(13, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
@@ -5696,7 +5696,7 @@
                     ["class", " col-xs-1 col-sm-1 col-md-2 col-lg-1"]
                 ], null, null, null, null, null)), (e()(), Gr(12, 0, null, null, 1, "a", [
                     ["class", " list-4"],
-                    ["href", "https://medium.com/@mayurbavisiya"],
+                    ["href", "https://medium.com/@mayur.bavisiya"],
                     ["target", "_blank"]
                 ], null, null, null, null, null)), (e()(), Gr(13, 0, null, null, 0, "i", [
                     ["aria-hidden", "true"],
