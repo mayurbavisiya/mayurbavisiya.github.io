@@ -5222,7 +5222,7 @@
                     ["class", "list-group-item list-2"]
                 ], null, null, null, null, null)), (e()(), oo(-1, null, ["Shell Scripting"])), (e()(), Gr(12, 0, null, null, 1, "span", [
                     ["class", "list-group-item list-2"]
-                ], null, null, null, null, null)), (e()(), oo(-1, null, ["Ansible/ Terraform/ Azure"]))], null, null)
+                ], null, null, null, null, null)), (e()(), oo(-1, null, ["WSO2 IS/ESB/DSS"]))], null, null)
             }
 
             function Zs(e) {
